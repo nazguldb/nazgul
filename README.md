@@ -1,4 +1,4 @@
-nazgul
+Nazgul
 ======
 
-One (partitioned) ring to rule them all and in the darkness bind them
+Nazgul is a blazingly fast NoSQL database. It's query language is NazQL.
