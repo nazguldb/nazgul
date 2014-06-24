@@ -1,3 +1,5 @@
+<img src="https://raw.github.com/nazguldb/nazgul/master/doc/nazgul-drawing.jpg" style="width: 100%" />
+
 Nazgul
 ======
 
