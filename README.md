@@ -1,4 +1,4 @@
-<img src="https://raw.github.com/nazguldb/nazgul/master/doc/nazgul-drawing.jpg" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/nazguldb/nazgul/master/doc/nazgul-drawing.png" style="width: 100%" />
 
 Nazgul
 ======
